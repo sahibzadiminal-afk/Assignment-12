@@ -2,7 +2,7 @@
 
 **File audited:** `teaching_prices_messy.csv`
 **SHA-256 of the original file:** `5818dad3807487d4e37f764e5d19cbaa152edd78fe4db182eb28b087c8709d35`
-**Git commit (`attempt-before-AI`):** run `git rev-parse --short HEAD` after committing this file and paste it here: `__________`
+**Git commit (`attempt-before-AI`):** `a37867f`
 
 ## What I expected
 Weekly prices, 12 dates (1 Jan – 19 Mar 2026, all Thursdays) × 4 items (Staple A, Oil B, Pulse C, Sweetener D) × 2 cities = **96 rows**, one per combination, in PKR per kg (illustrative). The file has **97 rows**, so something is already off before looking at values.
